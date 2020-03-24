@@ -1,4 +1,4 @@
-# movies
+# GifphyApp
 
 A new Flutter project.
 
